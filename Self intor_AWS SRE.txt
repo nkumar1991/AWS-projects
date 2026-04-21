@@ -1,0 +1,45 @@
+•	Monitoring production systems by using  CloudWatch, Prometheus, Grafana, and ELK.
+
+•	Investigate alerts and resolve incidents affecting system availability and performance.
+
+•	Perform root cause analysis (RCA) for production outages.
+
+•	Ensure SLA, SLO, and uptime targets are maintained.
+
+	EC2,  EKS / Kubernetes, S3, RDS, ELB, VPC networking,ALB, Lambda, Glue,IAM
+
+•	Optimize resource usage and cloud cost
+
+•	   Manage Kubernetes clusters (EKS).
+
+•	Monitor pods, nodes, deployments, and services.
+
+•	Troubleshoot container and application issues.
+
+•	Develop and maintain Terraform scripts for provisioning infrastructure.
+•	Automate manual operational tasks using 
+•	Build and maintain CI/CD pipelines using tools such as:
+o	Jenkins
+o	GitHub Actions
+o	GitLab CI
+•	Automate application deployments across environments.
+
+•	    Provide L2/L3 production support for critical applications.
+
+•	Handle deployment failures and environment issues.
+
+•	Coordinate with development teams for bug fixes and improvements.
+
+•      Implement auto-scaling and load balancing strategies.
+
+•     Reduce MTTR (Mean Time to Recovery).
+
+•	  Implement IAM roles and policies.
+
+•      Manage security groups, network policies, and secrets.
+
+•	Ensure compliance with security best practices.
+
+•	   Maintain runbooks, operational documentation, and architecture diagrams.
+
+•	Document incident reports and troubleshooting procedures.
